@@ -39,7 +39,7 @@ To learn the software, we recommend the <a href="https://www.odoo.com/slides">Od
 ![function-list](whs-erp.png "funlist")
 
 ### 我们将要追加和补全的机能
-    守护者-gardian    ...为企业的信息安全,代码安全护航
+    守护者-guardian    ...为企业的信息安全,代码安全护航
     財務/会计-kozichi  ...为企业的做帐，报税提供便利性
     文档-wiki.js      ...为企业的文档做成，共享提供便利性
     ...续写中...
