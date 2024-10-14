@@ -31,13 +31,15 @@ from the documentation.
 
 To learn the software, we recommend the <a href="https://www.odoo.com/slides">Odoo eLearning</a>, or <a href="https://www.odoo.com/page/scale-up-business-game">Scale-up</a>, the <a href="https://www.odoo.com/page/scale-up-business-game">business game</a>. Developers can start with <a href="https://www.odoo.com/documentation/master/developer/howtos.html">the developer tutorials</a>
 
-### comminity版的机能限制 和 「whs-erp」的预订实装机能一览 的比较
+### Community版的机能限制 和 「whs-erp」的预订实装机能一览 的比较
     机能限制原文: https://www.odoo.com/page/editions
     红圈为需要新做成的机能，绿圈为有现成的开源项目可以修改后代替。
     <img src="https://github.com/weihuasoftware/whs-erp/functionlist.jpg" alt="予定機能一覧" title="予定機能一覧">
 ### 我们将要追加和补全的机能
     守护者-gardian    ...为企业的信息安全,代码安全护航
     財務/会计-kozichi  ...为企业的做帐，报税提供便利性
+    文档-wiki.js      ...为企业的文档做成，共享提供便利性
+    ...续写中...
     
 
 
